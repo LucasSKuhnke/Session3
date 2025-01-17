@@ -1,0 +1,6 @@
+print(7+11)
+print(7-11)
+print(7*11)
+print(type(9/3), 9/3)
+print(None)
+print(2**10)
